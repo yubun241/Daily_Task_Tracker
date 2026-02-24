@@ -7,12 +7,19 @@ Excelで管理された詳細タスクと、ソースコード内に定義され
 
 ## ディレクトリ構造
 .
+
 ├── src/                # Source code / ソースコード
+
 ├── data/
+
 │   └── 詳細タスク/      # Input Excel files / 各プロジェクトの進捗データ (.xlsx)
+
 ├── result/             # Final processed data / 処理済みデータ
+
 ├── temp/               # Intermediate files / 中間ファイル
+
 └── 報告/                # PowerPoint outputs / パワーポイント出力
+
 
 
 ## データ仕様
