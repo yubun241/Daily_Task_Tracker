@@ -1,0 +1,2 @@
+# Daily_Task_Tracker
+日報管理を行うスクリプトになります
