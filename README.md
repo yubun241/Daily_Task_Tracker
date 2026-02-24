@@ -65,20 +65,11 @@ No.
 
 ## 実行方法
 
-Place your data in data/詳細タスク/.
-
-Review/Update the Gantt chart data in the source code (src/).
-
-Execute the script:
-
-bash
-
-python src/main.py
-Check the 報告/ folder for the generated .pptx files.
+プロジェクトの詳細を記入します data/詳細タスク/.
 
 data/詳細タスク/ にエクセルを配置します。
 
-src/ 内のコードでガントチャート等の値を必要に応じて更新します。
+Jupyter notebookで進捗状況を記載します
 
 スクリプトを実行します。
 
